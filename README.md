@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫About Me:
 👋 Hi, I’m @Shivangbijalwan<br>👀 Passionate about Chess ♟️<br>🌱 Currently diving into the world of AI (Artificial Intelligence)<br>💞️ Open to collaborations on Instagram<br>📫 Reach me at: shivang_sbi<br>⚡ Fun Fact: Development has a way of turning code into magic✨<br>
 
 
