@@ -1,5 +1,5 @@
 # 💫About Me:
-👋 Hi, I’m @Shivangbijalwan<br>👀 Passionate about Chess ♟️<br>🌱 Currently diving into Frontend AI Engineering <br>💞️ Open to collaborations on Linkedin<br>📫 Reach me at: shivang_sbi<br>⚡ Fun Fact: Development has a way of turning code into magic✨<br>
+👋 Hi, I’m @Shivangbijalwan<br>👀 Passionate about Chess ♟️<br>🌱 Currently diving into Frontend AI Engineering <br>💞️ Open to collaborations on Linkedin<br>⚡ Fun Fact: Development has a way of turning code into magic✨<br>
 
 
 
