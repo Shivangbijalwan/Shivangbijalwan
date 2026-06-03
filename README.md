@@ -8,7 +8,7 @@
  [![Twitter](https://img.shields.io/badge/X-%23FF00.svg?logo=X&logoColor=white)](https://x.com/Coderation117)  [![Website](https://img.shields.io/badge/Website-%23333.svg?style=flat&logo=vercel&logoColor=white)](https://shivang-website.vercel.app)
 
 # Products:
-1-  [![TTA - AI Powered Audio Generator App](https://tta-text-to-audio.vercel.app/)]
+1-  [TTA - AI Powered Audio Generator App](https://tta-text-to-audio.vercel.app/)
 
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -21,6 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivangbijalwan&icon=2&color=3)](https://visitcount.itsvg.in)
 
- 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
