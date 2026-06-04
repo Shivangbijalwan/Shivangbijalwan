@@ -1,8 +1,6 @@
 # 💫About Me:
 👋 Hi, I’m @Shivangbijalwan<br>👀 Passionate about Chess ♟️<br>🌱 Currently diving into Frontend AI Engineering <br> 💞️ Open to collaborations on Linkedin<br>⚡ Fun Fact: Development has a way of turning code into magic✨<br>
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivang_sbi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangbijalwan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shivangsbi771) 
  [![Twitter](https://img.shields.io/badge/X-%23FF00.svg?logo=X&logoColor=white)](https://x.com/Coderation117)  [![Website](https://img.shields.io/badge/Website-%23333.svg?style=flat&logo=vercel&logoColor=white)](https://shivang-website.vercel.app)
