@@ -1,5 +1,5 @@
 # 💫About Me:
-👋 Hi, I’m @Shivangbijalwan<br>👀<br>🌱 Currently diving into Frontend AI Engineering <br> 💞️ Open to collaborations on Linkedin<br>⚡ Fun Fact: Development has a way of turning code into magic✨<br>
+👋 Hi, I’m @Shivangbijalwan<br>🌱 Currently diving into Frontend AI Engineering <br> 💞️ Open to collaborations on Linkedin<br>⚡ Fun Fact: Development has a way of turning code into magic✨<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivang_sbi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangbijalwan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shivangsbi771) 
